@@ -1,4 +1,7 @@
-# pollution
-collecting and cleaning weather, pollution data
+# Pollution 
+- A repository to collect weather data with the lofty goal of predicting particulare matter concentrations -- at the moment, only in Beijing
 
-Use the file 'build_historical_weather_data.ipnyb' to build historical weather data sets of any city using wunderground's api
+# Files
+- Use the file 'build_historical_weather_data.ipnyb' to build historical weather data sets of any city using wunderground's api
+
+- all_2013.csv - beijing weather data collected every half hour for every day of 2013
